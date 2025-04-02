@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Click here to send request</h1>
+        <button onclick="sendRequest()">Click me</button> 
+    </body>
+    <script>
+        async function sendRequest() {
+            const res = await fetch("/api/token");
+            if (!response.ok) {
+                throw new Error(`Response status: ${response.status}`);
+            }   
+        }
+    </script>
+</html> 
