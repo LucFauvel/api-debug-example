@@ -1,0 +1,15 @@
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/bin/Debug/net9.0/dotnet-client.example
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/bin/Debug/net9.0/dotnet-client.example.deps.json
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/bin/Debug/net9.0/dotnet-client.example.runtimeconfig.json
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/bin/Debug/net9.0/dotnet-client.example.dll
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/bin/Debug/net9.0/dotnet-client.example.pdb
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.AssemblyInfoInputs.cache
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.AssemblyInfo.cs
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.csproj.CoreCompileInputs.cache
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.sourcelink.json
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.dll
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/refint/dotnet-client.example.dll
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.pdb
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/dotnet-client.example.genruntimeconfig.cache
+/Users/lfauvel/git/api-debug-example/dotnet-client.example/obj/Debug/net9.0/ref/dotnet-client.example.dll
